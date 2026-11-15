@@ -2,12 +2,13 @@
 
 Computer Science graduate from **Cal State Fullerton** (B.S., cybersecurity concentration, 2026).
 
-I'm interested in cybersecurity, automation and cloud infrastructure. I like building tools that make systems safer and take the repetition out of everyday work, from network security projects to scripts that organize files and clean up data.
+I'm interested in automation, AI and cybersecurity. I like building tools that take the repetition out of everyday work and make systems safer, from scripts that organize files and clean up data to AI powered apps and network security projects.
 
 ## Interests
 
-* Network and application security
 * Automation and scripting
+* AI and LLM powered tools
+* Network and application security
 * Cloud infrastructure and software defined networking
 * Data analysis and dashboards
 
